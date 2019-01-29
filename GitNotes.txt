@@ -1,0 +1,13 @@
+Git Notes
+
+1. Stage all files you changed.
+
+	git add .
+
+2. commit your changes locally
+
+	git commit - m "added new feature"
+
+3. push your work to gitHub
+
+	git push
